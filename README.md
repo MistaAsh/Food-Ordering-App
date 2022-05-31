@@ -1,2 +1,2 @@
-# DBMS_PROJECT
-This is our submission for DBMS project
+# Food-Ordering-App
+An implementation of a Food Ordering Management System using Flutter framework and Firebase as the database.
